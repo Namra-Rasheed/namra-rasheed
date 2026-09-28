@@ -32,5 +32,5 @@ I am a Computer Science graduate (BSCS) with a strong foundation in backend deve
 
 <br/>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Namra-Rasheed&show_icons=true&theme=radical&hide_border=true" alt="Namra's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Namra-Rasheed&theme=radical&hide_border=true" alt="Namra's GitHub Stats" />
 </p>
